@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "jg7uvwtk8xji/RxJPJZjXxdaujw=",
+			"path": "github.com/bmatsuo/go-jsontree",
+			"revision": "8a1cc1e88d44390691f69163f6bc597aac267cc3",
+			"revisionTime": "2014-03-12T04:21:50Z"
+		},
+		{
+			"checksumSHA1": "5nbBYX52QEwtvGmxVyd3JwhOH30=",
+			"path": "github.com/justone/simpleslack",
+			"revision": "01cb0bb2098fdd77675f70632133a124ddf3ce7b",
+			"revisionTime": "2017-10-01T22:09:09Z"
+		}
+	],
+	"rootPath": "github.com/justone/ulmf"
+}
