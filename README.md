@@ -1,6 +1,4 @@
-# ulmf
-
-Ugh, Let Me Focus! (a helper to shut up Slack)
+# ulmf - Ugh, Let Me Focus! (a helper to shut up Slack)
 
 In order to mark yourself as busy or away for focusing, Slack requires you to do three things:
 
